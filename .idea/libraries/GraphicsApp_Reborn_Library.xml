@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="GraphicsApp-Reborn-Library">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/lib/GraphicsApp-Reborn-Library.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
