@@ -28,3 +28,6 @@ hs_err_pid*
 
 # Production and Testing
 out/
+
+# Ignore generated test files
+user_log.txt
