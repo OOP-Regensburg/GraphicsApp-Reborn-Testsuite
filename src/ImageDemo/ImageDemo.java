@@ -17,6 +17,7 @@ public class ImageDemo extends GraphicsApp {
     public void initialize() {
         rand = new Random();
         images = new ArrayList<>();
+        getConfig().setWidth(800);
         for(int i = 0; i < NUMBER_OF_IMAGES; i++) {
             int startX = rand.nextInt(getWidth());
             int startY = rand.nextInt(getHeight());

@@ -22,7 +22,8 @@
 hs_err_pid*
 
 # IntelliJ IDEA
-.idea/
+.idea/vcs.xml
+.idea/workspace.xml
 
 # Production and Testing
 out/
